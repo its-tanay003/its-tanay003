@@ -1,181 +1,191 @@
-<div align="center">
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:07111F,45:102A43,100:007F9E&text=TANAY%20TANISHK&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=CYBERSECURITY%20%2F%20SECURITY%20ENGINEERING%20%2F%20AI&descSize=15&descColor=9DEBFF&descAlignY=60" width="100%" />`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123B5D,100:00B4D8&height=190&section=header&text=TANAY%20TANISHK&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SECURITY%20ENGINEERING%20%7C%20AI&descSize=14&descAlignY=60" width="100%" />
+`<br/>`{=html}
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=36C5F0&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Exploring+Offensive+%26+Defensive+Security;Building+Security-Focused+Projects;Learning.+Experimenting.+Securing." />
+`<a href="https://github.com/its-tanay003">`{=html}`<img src="https://img.shields.io/badge/GitHub-its--tanay003-101820?style=for-the-badge&logo=github&logoColor=white" />`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/tanay-t-963414378/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />`{=html}`</a>`{=html}
+`<a href="https://portfolio-murex-chi-55.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-087EA4?style=for-the-badge&logo=vercel&logoColor=white" />`{=html}`</a>`{=html}
+`<a href="mailto:tkkrtanay00@gmail.com">`{=html}`<img src="https://img.shields.io/badge/EMAIL-CONTACT-34495E?style=for-the-badge&logo=gmail&logoColor=white" />`{=html}`</a>`{=html}
 
-<a href="https://github.com/its-tanay003"><img src="https://img.shields.io/badge/GitHub-its--tanay003-111827?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/tanay-t-963414378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://portfolio-murex-chi-55.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel" /></a>
+`<br/>`{=html}`<br/>`{=html}
 
-</div>
-
----
-
-## 🔹 01 — ABOUT ME
-
-I'm **Tanay**, a Computer Science Engineering student specializing in Cybersecurity (2025–2029).
-
-I'm interested in understanding how systems fail, how vulnerabilities can be identified, and how stronger security controls can be engineered.
-
-<table>
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1000&color=55D6F5&center=true&vCenter=true&width=720&lines=Exploring+how+systems+break+%E2%80%94+and+how+to+secure+them.;Building+security-focused+tools+and+technical+projects.;Learning+%7C+Experimenting+%7C+Securing" alt="Profile tagline" />`{=html}
+:::<table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
+01 / PROFILE
+Hey, I'm Tanay Tanishk --- a Computer Science Engineering student
+specializing in Cybersecurity (2025--2029).
 
-### 🎯 Current Focus
+I'm interested in how systems work, where they fail, how vulnerabilities
+can be identified, and how security controls can be engineered to make
+digital environments safer.
 
-- Network Security & Traffic Analysis
-- Offensive Security Fundamentals
-- Cryptography
-- Security Automation
-- AI-driven Threat Detection
-
+I learn by building, testing, documenting, and continuously improving
+practical projects.
 </td>
-<td width="50%" valign="top">
-
-### 🧭 My Direction
-
-- Practical Security Research
-- Security Engineering
-- Linux & Security Tooling
-- AI-powered Security Systems
-- Building Technical Projects
-
+<td width="38%" valign="top">
+QUICK INFO
+🎓 B.Tech CSE · Cybersecurity
+🛡️ Interests · Offensive & Defensive Security
+⚙️ Build · Security tools, automation & AI
+🌏 Based in · India
+🤝 Open to · Learning & collaboration
 </td>
 </tr>
 </table>
+02 / AREAS OF INTEREST
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+🛰️ NETWORK SECURITY
+- Traffic analysis
+- Network protocols
+- Network defense
+- Threat monitoring
+</td>
+<td width="33%" valign="top">
+🔍 OFFENSIVE SECURITY
+- Ethical hacking
+- Reconnaissance
+- Vulnerability assessment
+- Security testing
+</td>
+<td width="34%" valign="top">
+🔐 SECURITY ENGINEERING
+- Cryptography
+- Secure system design
+- Linux security
+- Security automation
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+🤖 AI × CYBERSECURITY
+Exploring AI-assisted threat detection, security automation, autonomous
+agents, and safer execution environments.
+</td>
+</tr>
+</table>
+03 / TECHNICAL TOOLKIT
+::: {align="center"}
+**LANGUAGES**
 
----
+`<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />`{=html}
 
-## 🔹 02 — TECH STACK
+**DEVELOPMENT & DATABASE**
 
-<div align="center">
+`<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,supabase,firebase&theme=dark" />`{=html}
 
-### Programming Languages
+**TOOLS & PLATFORMS**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql&theme=dark" />
+`<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,arduino&theme=dark" />`{=html}
+:::Security toolkit & concepts: Linux · Nmap · Wireshark · Network
+Security · Cryptography · Vulnerability Assessment
+This section reflects technologies and areas I've worked with or am
+actively learning; it is not a claim of certification or mastery.
 
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino,docker&theme=dark" />
-
-</div>
-
-**Security Interests:** Information Security · Network Security · Cryptography · Vulnerability Assessment · Security Research
-
----
-
-## 🔹 03 — FEATURED PROJECTS
-
-<table>
+04 / SELECTED WORK
+::: {align="center"}
+`<a href="https://github.com/its-tanay003/Kairo">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-tanay003&repo=Kairo&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=55D6F5&icon_color=55D6F5" width="49%" />`{=html}
+`</a>`{=html}
+`<a href="https://github.com/its-tanay003/VaultX-2.0">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-tanay003&repo=VaultX-2.0&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=55D6F5&icon_color=55D6F5" width="49%" />`{=html}
+`</a>`{=html} `<a href="https://github.com/its-tanay003/UDT-X">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-tanay003&repo=UDT-X&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=55D6F5&icon_color=55D6F5" width="49%" />`{=html}
+`</a>`{=html}
+`<a href="https://github.com/its-tanay003/CAMPUSPULSE">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/pin/?username=its-tanay003&repo=CAMPUSPULSE&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=55D6F5&icon_color=55D6F5" width="49%" />`{=html}
+`</a>`{=html}
+:::<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### 🛡️ KAIRO
-
+🛡️ KAIRO
 AI-assisted cybersecurity assessment and automation environment.
 
-**Focus**
-- Security automation
-- AI agents
-- Tool orchestration
-- Security assessment
-
-[Explore Repository →](https://github.com/its-tanay003/Kairo)
-
+Security Automation · AI Agents · Tool Orchestration
 </td>
 <td width="50%" valign="top">
+🔐 VAULTX 2.0
+Agent-first environment exploring policy-enforced execution, sandboxing,
+and auditable security controls.
 
-### 🔐 VAULTX 2.0
-
-Agent-first environment exploring policy-enforced execution, sandboxing and auditable security controls.
-
-**Focus**
-- Security engineering
-- Rust
-- Sandboxing
-- Threat modelling
-
-[Explore Repository →](https://github.com/its-tanay003/VaultX-2.0)
-
+Rust · Sandboxing · Security Engineering
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+📡 UDT-X
+Network defense and telemetry platform concept for traffic analysis,
+threat detection, and incident workflows.
 
-### 📡 UDT-X
-
-Unified Defense & Telemetry Platform covering network monitoring and threat detection.
-
-**Focus**
-- Network defense
-- Threat detection
-- Telemetry
-- SOC workflows
-
-[Explore Repository →](https://github.com/its-tanay003/UDT-X)
-
+Network Defense · Threat Detection · Telemetry
 </td>
 <td width="50%" valign="top">
+🎓 CAMPUSPULSE
+Campus event discovery and scheduling platform with role-based workflows
+and database-backed access controls.
 
-### 🎓 CAMPUSPULSE
-
-Campus event discovery and scheduling platform with role-based workflows.
-
-**Focus**
-- Full-stack development
-- PostgreSQL
-- Application security
-- Role-based access
-
-[Explore Repository →](https://github.com/its-tanay003/CAMPUSPULSE)
-
+React · TypeScript · PostgreSQL
 </td>
 </tr>
 </table>
+::: {align="center"}
+`<a href="https://github.com/its-tanay003?tab=repositories">`{=html}`<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white" />`{=html}`</a>`{=html}
+:::05 / EXPERIENCE & MILESTONES
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+🎥 EVENT ORGANIZATION
+Smart India Hackathon 2026
+Organizer & Media Head
 
-<div align="center">
+Contributed to event coordination and media coverage, helping document
+and communicate the event experience.
+</td>
+<td width="50%" valign="top">
+🏅 ACADEMIC MILESTONES
+- JEE Advanced 2025 --- Qualified
+- National Science Olympiad --- Level 2
+- Unified Cyber Olympiad --- Top 1200
+</td>
+</tr>
+</table>
+06 / CURRENT LEARNING TRACK
+::: {align="center"}
+  Learning path           Current direction
+  ----------------------- -----------------------------------------------
+  🌐 Network Security     Protocols, traffic analysis & network defense
+  🐧 Linux & Systems      Linux fundamentals and system security
+  🧪 Offensive Security   Ethical testing and vulnerability assessment
+  🔏 Cryptography         Encryption concepts and secure communication
+  🤖 AI Security          AI-assisted detection and secure agent design
+:::07 / GITHUB ANALYTICS
+::: {align="center"}
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=its-tanay003&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55D6F5&icon_color=55D6F5&text_color=C9D1D9&rank_icon=github" />`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-tanay003&layout=compact&hide_border=true&bg_color=0D1117&title_color=55D6F5&text_color=C9D1D9" />`{=html}
 
-<a href="https://github.com/its-tanay003?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github" />
-</a>
+`<br/>`{=html}
 
-</div>
+`<img src="https://streak-stats.demolab.com?user=its-tanay003&hide_border=true&background=0D1117&ring=55D6F5&fire=55D6F5&currStreakLabel=55D6F5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" />`{=html}
 
----
+`<br/>`{=html}`<br/>`{=html}
 
-## 🔹 04 — GITHUB STATISTICS
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-tanay003&bg_color=0D1117&color=C9D1D9&line=18A9C9&point=55D6F5&area=true&hide_border=true" width="100%" />`{=html}
+:::08 / LET'S CONNECT
+::: {align="center"}
+**Interested in cybersecurity, security engineering, and building useful
+technology.**
 
-<div align="center">
+`<a href="https://www.linkedin.com/in/tanay-t-963414378/">`{=html}`<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />`{=html}`</a>`{=html}
+`<a href="https://portfolio-murex-chi-55.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/PORTFOLIO-087EA4?style=for-the-badge&logo=vercel&logoColor=white" />`{=html}`</a>`{=html}
+`<a href="mailto:tkkrtanay00@gmail.com">`{=html}`<img src="https://img.shields.io/badge/EMAIL-34495E?style=for-the-badge&logo=gmail&logoColor=white" />`{=html}`</a>`{=html}
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=its-tanay003&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36C5F0&icon_color=36C5F0&text_color=C9D1D9&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-tanay003&layout=compact&hide_border=true&bg_color=0D1117&title_color=36C5F0&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=its-tanay003&hide_border=true&background=0D1117&ring=36C5F0&fire=36C5F0&currStreakLabel=36C5F0&sideLabels=C9D1D9&dates=8B949E" width="70%" />
-
-</div>
-
----
-
-## 🔹 05 — CONNECT WITH ME
-
-<div align="center">
-
-I'm always interested in learning from other builders, collaborating on meaningful projects and exchanging ideas around cybersecurity.
-
-<a href="https://www.linkedin.com/in/tanay-t-963414378/"><img src="https://img.shields.io/badge/LinkedIn-Tanay%20Tanishk-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-
-<a href="https://portfolio-murex-chi-55.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-0EA5E9?style=for-the-badge&logo=vercel" /></a>
-
-<a href="mailto:tkkrtanay00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>
-
-<br/>
+`<br/>`{=html}`<br/>`{=html}
 
 ### LEARN DEEPLY. BUILD THOUGHTFULLY. SECURE RESPONSIBLY.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:123B5D,100:07111F&height=100&section=footer" width="100%" />
-
-</div>
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111F,50:102A43,100:007F9E" width="100%" />`{=html}
+:::
